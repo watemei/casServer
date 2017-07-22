@@ -35,7 +35,7 @@ casClient jdk7 tomcat7
 
 ## 服务端代码下载及配置
 ### 代码下载
-http://27.115.67.198:10097/wangxb147/casServer
+https://github.com/watemei/casServer
 ### 建库（mysql）
 创建dbname 为cas
 
@@ -59,7 +59,7 @@ http://27.115.67.198:10097/wangxb147/casServer
 ![avatar](doc/img/4-tomcat-start-8090-login.png)
 
 ## 客户端代码下载及配置
-http://27.115.67.198:10097/wangxb147/casClient1
+https://github.com/watemei/casClient
 
 
 ### 修改web.xml
